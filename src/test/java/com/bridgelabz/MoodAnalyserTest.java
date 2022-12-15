@@ -18,9 +18,4 @@ class MoodAnalyserTest {
         Assertions.assertEquals("HAPPY", result);
     }
 
-
-
-
-
-
 }
